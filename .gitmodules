@@ -1,0 +1,3 @@
+[submodule "Game/MonoCore"]
+	path = Game/MonoCore
+	url = git@github.com:ouabing/MonoCore.git
